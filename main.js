@@ -83,3 +83,5 @@ function showDetails(alpha3Code) {
       `;
     });
 }
+
+
